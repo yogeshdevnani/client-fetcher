@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from bs4 import BeautifulSoup
 import requests
 import os
@@ -67,6 +66,4 @@ companyName = input("Enter company's name:\t")
 # companyName = 'Ken Origin Limited'
 companyFetcher(companyName)
 # infoFetcher('https://www.zaubacorp.com/company/KEN-ORIGIN-LIMITED/U45200JH2006PLC012638')
-=======
-print ("Hello World")
->>>>>>> refs/remotes/origin/main
+
